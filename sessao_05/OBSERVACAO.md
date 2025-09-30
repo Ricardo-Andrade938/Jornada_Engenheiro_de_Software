@@ -1,0 +1,1 @@
+Esta sessão (Sessão 5) foi focada em conceitos teóricos sobre a Estrutura de Projetos e Módulos em Python. A parte prática foi a refatoração do código das sessões anteriores para a nova estrutura, movendo funções para o arquivo utils.py.

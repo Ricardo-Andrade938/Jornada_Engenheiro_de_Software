@@ -1,0 +1,1 @@
+Esta sessão (Sessão 7) foi uma imersão teórica nos cinco princípios SOLID, que são a base para o design de software robusto e manutenível. O conhecimento adquirido aqui será aplicado na construção do nosso projeto principal.
