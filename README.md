@@ -54,7 +54,6 @@ Esta tabela registra o progresso em cada sessão de estudo.
 | 12 | EDA: Árvores (Trees) e Noções de Busca | ✅ | [Ver Código](./sessao_12/) |
 | 13/14 | Git Workflow: Branches e Pull Requests | ✅ | *(Workflow do Repositório)* |
 | 15 | Testes Unitários com `Pytest` | ✅ | *[Ver Testes](./tests/)* |
-
 | **Fase 2: Construção do Backend de Alta Performance** |
 | 16 | Fundamentos Web (HTTP, JSON) e introdução a APIs REST. | ⏳ | *(A ser iniciado)* |
 | 17 | FastAPI - Primeiros Passos (Rotas, Parâmetros de Path/Query). | ⏳ | *(A ser iniciado)* |
@@ -73,7 +72,6 @@ Esta tabela registra o progresso em cada sessão de estudo.
 | 30 | Implementação de Login e Rotas Protegidas. | ⏳ | *(A ser iniciado)* |
 | 31 | Introdução ao Caching com Redis. | ⏳ | *(A ser iniciado)* |
 | 32 | Implementando Cache na API para otimizar consultas. | ⏳ | *(A ser iniciado)* |
-
 | **Fase 3: Criando a Interface do Usuário** |
 | 33 | Fundamentos Web - HTML5 Semântico e CSS com Flexbox. | ⏳ | *(A ser iniciado)* |
 | 34 | Fundamentos Web - CSS com Grid e Design Responsivo. | ⏳ | *(A ser iniciado)* |
@@ -88,7 +86,6 @@ Esta tabela registra o progresso em cada sessão de estudo.
 | 43 | Gerenciamento de Estado (ex: Pinia). | ⏳ | *(A ser iniciado)* |
 | 44 | Implementando um Sistema de Notificações no Frontend. | ⏳ | *(A ser iniciado)* |
 | 45 | Polimento da UI/UX e build para produção. | ⏳ | *(A ser iniciado)* |
-
 | **Fase 4: Engenharia de Produção (DevOps & Cloud)** |
 | 46 | Docker - Containerizando a API Python (Dockerfile). | ⏳ | *(A ser iniciado)* |
 | 47 | Docker - Containerizando o Frontend Vue/Nginx. | ⏳ | *(A ser iniciado)* |
@@ -105,12 +102,9 @@ Esta tabela registra o progresso em cada sessão de estudo.
 | 58 | Configurando Domínio e HTTPS. | ⏳ | *(A ser iniciado)* |
 | 59 | Fundamentos de Logging e Monitoramento (Cloud Logging). | ⏳ | *(A ser iniciado)* |
 | 60 | Otimização de Custos e Alertas de Orçamento. | ⏳ | *(A ser iniciado)* |
-
 | **Fase 5: Polimento e Finalização do Projeto** |
 | 61 | Refatoração Final do Código (Backend e Frontend). | ⏳ | *(A ser iniciado)* |
 | 62 | Elaboração de um README.md profissional para o projeto no GitHub. | ⏳ | *(A ser iniciado)* |
----
-
 ---
 
 ## 🚀 Como Executar (Setup do Projeto)
