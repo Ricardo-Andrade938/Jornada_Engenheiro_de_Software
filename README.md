@@ -55,8 +55,8 @@ Esta tabela registra o progresso em cada sessão de estudo.
 | 13/14 | Git Workflow: Branches e Pull Requests | ✅ | *(Workflow do Repositório)* |
 | 15 | Testes Unitários com `Pytest` | ✅ | *[Ver Testes](./tests/)* |
 | **Fase 2: Construção do Backend de Alta Performance** |
-| 16 | Fundamentos Web (HTTP, JSON) e introdução a APIs REST. | ⏳ | *(A ser iniciado)* |
-| 17 | FastAPI - Primeiros Passos (Rotas, Parâmetros de Path/Query). | ⏳ | *(A ser iniciado)* |
+| 16 | Fundamentos Web (HTTP, JSON) e introdução a APIs REST. | ✅ | [Ver Nota](./sessao_16/) |
+| 17 | FastAPI - Primeiros Passos (Rotas, Parâmetros de Path/Query). | ✅ | [Ver Código](./sessao_17/) |
 | 18 | FastAPI & Pydantic - Validação de Dados e Modelos. | ⏳ | *(A ser iniciado)* |
 | 19 | Projeto do Banco de Dados - Modelagem relacional para a "Central de Ativos". | ⏳ | *(A ser iniciado)* |
 | 20 | SQL Avançado - JOINs, Índices e Transações. | ⏳ | *(A ser iniciado)* |
