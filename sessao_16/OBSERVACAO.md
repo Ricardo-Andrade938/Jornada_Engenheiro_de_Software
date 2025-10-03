@@ -1,0 +1,1 @@
+Esta sessão (Sessão 16) foi uma imersão teórica nos fundamentos da web para o desenvolvimento de APIs. Cobrimos o protocolo HTTP (Requisição/Resposta, Métodos, Status Codes), o formato de dados JSON e a arquitetura RESTful. A parte prática consistiu em usar um cliente de API (Insomnia) para fazer uma requisição a uma API pública e analisar a resposta.
