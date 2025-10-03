@@ -1,0 +1,19 @@
+[project]
+name = "jornada-engenheiro-de-software"
+version = "0.1.0"
+description = "\"Registro da minha jornada de 62 sessões de estudo em Engenharia de Software, utilizando o GEM DevPartner AI. O projeto abrange desde fundamentos de Python e Estruturas de Dados até o desenvolvimento e deploy de uma API completa na nuvem.\""
+authors = [
+    {name = "Ricardo Andrade",email = "ricardo.m.andrade@outlook.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi (>=0.118.0,<0.119.0)",
+    "uvicorn[standard] (>=0.37.0,<0.38.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
