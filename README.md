@@ -57,8 +57,8 @@ Esta tabela registra o progresso em cada sessão de estudo.
 | **Fase 2: Construção do Backend de Alta Performance** |
 | 16 | Fundamentos Web (HTTP, JSON) e introdução a APIs REST. | ✅ | [Ver Nota](./learning-journal/sessao_16/) |
 | 17 | FastAPI - Primeiros Passos (Rotas, Parâmetros de Path/Query). | ✅ | [Ver Código](./learning-journal/sessao_17/) |
-| 18 | FastAPI & Pydantic - Validação de Dados e Modelos. | ⏳ | *(A ser iniciado)* |
-| 19 | Projeto do Banco de Dados - Modelagem relacional para a "Central de Ativos". | ⏳ | *(A ser iniciado)* |
+| 18 | FastAPI & Pydantic - Validação de Dados e Modelos. | ✅ | [Ver Código](./app/) |
+| 19 | Projeto do Banco de Dados - Modelagem relacional para a "Central de Ativos". | ✅ | [Ver Código](./app/) |
 | 20 | SQL Avançado - JOINs, Índices e Transações. | ⏳ | *(A ser iniciado)* |
 | 21 | Introdução ao ORM com SQLModel e SQLAlchemy. | ⏳ | *(A ser iniciado)* |
 | 22 | Conectando o FastAPI ao PostgreSQL. | ⏳ | *(A ser iniciado)* |
