@@ -40,23 +40,23 @@ Esta tabela registra o progresso em cada sessão de estudo.
 | Sessão | Tópico Principal | Status | Link para o Código |
 | :--- | :--- | :---: | :---: |
 | **Fase 1: Fundamentos de Engenharia** |
-| 01 | Fundamentos de Python: Variáveis, Tipos e Operadores | ✅ | [Ver Código](./sessao_01/) |
-| 02 | Estruturas de Controle: `if`, `for`, `while` | ✅ | [Ver Código](./sessao_02/) |
-| 03 | Funções (`def`), DRY e Escopo | ✅ | [Ver Código](./sessao_03/) |
-| 04 | Interação com Arquivos: Lendo CSV e Escrevendo TXT | ✅ | [Ver Código](./sessao_04/) |
-| 05 | Módulos e Estrutura de Projetos (Teoria) | ✅ | [Ver Nota](./sessao_05/) |
-| 06 | POO: Classes, Objetos, `__init__`, `self` | ✅ | [Ver Código](./sessao_06/) |
-| 07 | POO: Princípios SOLID (Teoria) | ✅ | [Ver Nota](./sessao_07/) |
-| 08 | EDA: Big O Notation e Listas/Arrays | ✅ | [Ver Código](./sessao_08/) |
-| 09 | EDA: Pilhas (Stacks) e Filas (Queues) | ✅ | [Ver Código](./sessao_09/) |
-| 10 | EDA: Listas Ligadas (Linked Lists) | ✅ | [Ver Código](./sessao_10/) |
-| 11 | EDA: Hash Maps (Dicionários) | ✅ | [Ver Código](./sessao_11/) |
-| 12 | EDA: Árvores (Trees) e Noções de Busca | ✅ | [Ver Código](./sessao_12/) |
+| 01 | Fundamentos de Python: Variáveis, Tipos e Operadores | ✅ | [Ver Código](./learning-journal/sessao_01/) |
+| 02 | Estruturas de Controle: `if`, `for`, `while` | ✅ | [Ver Código](./learning-journal/sessao_02/) |
+| 03 | Funções (`def`), DRY e Escopo | ✅ | [Ver Código](./learning-journal/sessao_03/) |
+| 04 | Interação com Arquivos: Lendo CSV e Escrevendo TXT | ✅ | [Ver Código](./learning-journal/sessao_04/) |
+| 05 | Módulos e Estrutura de Projetos (Teoria) | ✅ | [Ver Nota](./learning-journal/sessao_05/) |
+| 06 | POO: Classes, Objetos, `__init__`, `self` | ✅ | [Ver Código](./learning-journal/sessao_06/) |
+| 07 | POO: Princípios SOLID (Teoria) | ✅ | [Ver Nota](./learning-journal/sessao_07/) |
+| 08 | EDA: Big O Notation e Listas/Arrays | ✅ | [Ver Código](./learning-journal/sessao_08/) |
+| 09 | EDA: Pilhas (Stacks) e Filas (Queues) | ✅ | [Ver Código](./learning-journal/sessao_09/) |
+| 10 | EDA: Listas Ligadas (Linked Lists) | ✅ | [Ver Código](./learning-journal/sessao_10/) |
+| 11 | EDA: Hash Maps (Dicionários) | ✅ | [Ver Código](./learning-journal/sessao_11/) |
+| 12 | EDA: Árvores (Trees) e Noções de Busca | ✅ | [Ver Código](./learning-journal/sessao_12/) |
 | 13/14 | Git Workflow: Branches e Pull Requests | ✅ | *(Workflow do Repositório)* |
 | 15 | Testes Unitários com `Pytest` | ✅ | *[Ver Testes](./tests/)* |
 | **Fase 2: Construção do Backend de Alta Performance** |
-| 16 | Fundamentos Web (HTTP, JSON) e introdução a APIs REST. | ✅ | [Ver Nota](./sessao_16/) |
-| 17 | FastAPI - Primeiros Passos (Rotas, Parâmetros de Path/Query). | ✅ | [Ver Código](./sessao_17/) |
+| 16 | Fundamentos Web (HTTP, JSON) e introdução a APIs REST. | ✅ | [Ver Nota](./learning-journal/sessao_16/) |
+| 17 | FastAPI - Primeiros Passos (Rotas, Parâmetros de Path/Query). | ✅ | [Ver Código](./learning-journal/sessao_17/) |
 | 18 | FastAPI & Pydantic - Validação de Dados e Modelos. | ⏳ | *(A ser iniciado)* |
 | 19 | Projeto do Banco de Dados - Modelagem relacional para a "Central de Ativos". | ⏳ | *(A ser iniciado)* |
 | 20 | SQL Avançado - JOINs, Índices e Transações. | ⏳ | *(A ser iniciado)* |
