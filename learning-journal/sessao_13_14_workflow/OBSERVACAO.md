@@ -1,0 +1,1 @@
+Esta sessão prática cobriu o workflow colaborativo do Git. O exercício consistiu em criar uma branch, adicionar código, fazer commits, enviar para o GitHub e abrir um Pull Request, que foi revisado e mesclado.
