@@ -59,7 +59,7 @@ Esta tabela registra o progresso em cada sessão de estudo.
 | 17 | FastAPI - Primeiros Passos (Rotas, Parâmetros de Path/Query). | ✅ | [Ver Código](./learning-journal/sessao_17/) |
 | 18 | FastAPI & Pydantic - Validação de Dados e Modelos. | ✅ | [Ver Código](./app/) |
 | 19 | Projeto do Banco de Dados - Modelagem relacional para a "Central de Ativos". | ✅ | [Ver Código](./app/) |
-| 20 | SQL Avançado - JOINs, Índices e Transações. | ⏳ | *(A ser iniciado)* |
+| 20 | SQL Avançado - JOINs, Índices e Transações. | ✅ | [Ver Código](./app/database/) |
 | 21 | Introdução ao ORM com SQLModel e SQLAlchemy. | ⏳ | *(A ser iniciado)* |
 | 22 | Conectando o FastAPI ao PostgreSQL. | ⏳ | *(A ser iniciado)* |
 | 23 | Implementando a rota POST (Criar Ativo). | ⏳ | *(A ser iniciado)* |
