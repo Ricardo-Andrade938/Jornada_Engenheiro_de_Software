@@ -9,3 +9,6 @@ venv/
 # Caches de Ferramentas
 .pytest_cache/
 .vscode/
+
+# Arquivos de segredos
+.env
