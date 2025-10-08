@@ -60,7 +60,7 @@ Esta tabela registra o progresso em cada sessão de estudo.
 | 18 | FastAPI & Pydantic - Validação de Dados e Modelos. | ✅ | [Ver Código](./app/) |
 | 19 | Projeto do Banco de Dados - Modelagem relacional para a "Central de Ativos". | ✅ | [Ver Código](./app/) |
 | 20 | SQL Avançado - JOINs, Índices e Transações. | ✅ | [Ver Código](./app/database/) |
-| 21 | Introdução ao ORM com SQLModel e SQLAlchemy. | ⏳ | *(A ser iniciado)* |
+| 21 | Introdução ao ORM com SQLModel e SQLAlchemy. | ✅ | [Ver Código](./app/) |
 | 22 | Conectando o FastAPI ao PostgreSQL. | ⏳ | *(A ser iniciado)* |
 | 23 | Implementando a rota POST (Criar Ativo). | ⏳ | *(A ser iniciado)* |
 | 24 | Implementando as rotas GET (Listar e Detalhar Ativos). | ⏳ | *(A ser iniciado)* |
