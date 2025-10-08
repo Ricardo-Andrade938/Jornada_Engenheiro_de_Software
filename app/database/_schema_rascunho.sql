@@ -46,7 +46,7 @@ SELECT
     usuarios.nome AS nome_usuario,
     areas.nome_area,
     logs_de_acesso.tipo_evento,
-    logs_de_acesso.timestamp
+    logs_de_acesso.detalhes
 FROM logs_de_acesso
 INNER JOIN usuarios ON logs_de_acesso.usuario_id = usuarios.id
 INNER JOIN areas ON logs_de_acesso.area_id = areas.id;
