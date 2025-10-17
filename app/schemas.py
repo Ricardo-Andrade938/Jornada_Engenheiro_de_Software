@@ -14,6 +14,17 @@ class Usuario(BaseModel):
     matricula: str
     tipo_usuario: str
     
+class UsuarioCreate(BaseModel):
+    nome: str
+    matricula: str
+    tipo_usuario: str
+    senha_hash: str
+
+class UsuarioRead(BaseModel):
+    id: int
+    nome: str
+    matricula: str
+    tipo_usuario: str
 
 # Schema para a representação de uma Área na API
 class Area(BaseModel):
