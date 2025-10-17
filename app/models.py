@@ -1,3 +1,4 @@
+from datetime import datetime
 from typing import List, Optional
 
 from sqlmodel import Field, Relationship, SQLModel
@@ -5,10 +6,10 @@ from sqlmodel import Field, Relationship, SQLModel
 
 class Usuario(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
-    nome: str = Field(max_lenght=100)
-    matricula: str = Field(max_lenght=10, unique=True, index=True)
-    tipo_usuario: str = Field(max_lenght=20)
-    senhas_hash: str
+    nome: str = Field(max_length=100)
+    matricula: str = Field(max_length=10, unique=True, index=True)
+    tipo_usuario: str = Field(max_length=20)
+    senha_hash: str
 
     # A "mágica" do relacionamento:
     # Este atributo 'logs' não existe como uma coluna no banco.
@@ -36,4 +37,5 @@ class LogDeAcesso(SQLModel, table=True):
     #Criando a outra ponta do relacionamento
     #back_populates aponta para o nome do atributo na outra classe
     usuario: Usuario = Relationship(back_populates="logs")
+    area: Area = Relationship(back_populates="logs")
     area: Area = Relationship(back_populates="logs")
